@@ -42,6 +42,13 @@ Click on the contract name under the "Deployed Contracts" section. You will see 
 Once the contract is deployed, you can interact with its functions by entering the required parameters and clicking the respective function buttons.
 
 Congratulations! You have successfully connected your local Hardhat network with Remix and deployed/interacted with a contract.
+## Video Walkthrough
+
+https://www.loom.com/share/56faefb9a47a4accae98ae6cc77b5385
+
+
+Feel free to explore and modify the contract according to your needs!
+
 
 Note: Make sure your local Hardhat network is running (`npx hardhat node`) and that you have the necessary dependencies installed (`npm install`).
 
