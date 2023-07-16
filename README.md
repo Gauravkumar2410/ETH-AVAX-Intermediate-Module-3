@@ -44,7 +44,7 @@ Once the contract is deployed, you can interact with its functions by entering t
 Congratulations! You have successfully connected your local Hardhat network with Remix and deployed/interacted with a contract.
 ## Video Walkthrough
 
-https://www.loom.com/share/56faefb9a47a4accae98ae6cc77b5385
+[https://www.loom.com/share/56faefb9a47a4accae98ae6cc77b5385](https://www.loom.com/share/cc47d135b73b4c278a382c05918ce72c?sid=53e96a83-3cde-42c5-abaf-05279e57bf4c)
 
 
 Feel free to explore and modify the contract according to your needs!
